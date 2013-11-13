@@ -1,2 +1,3 @@
 language: objective-c
 
+script: xcodebuild -scheme -version -sdk DemoTravisCI
